@@ -1,0 +1,29 @@
+{
+  "numeric_columns": [
+    "age",
+    "balance",
+    "day",
+    "campaign",
+    "pdays_since_contact",
+    "previous",
+    "was_previously_contacted"
+  ],
+  "categorical_columns": [
+    "job",
+    "marital",
+    "education",
+    "contact",
+    "month",
+    "poutcome",
+    "age_group",
+    "default",
+    "housing",
+    "loan"
+  ],
+  "business_threshold": 0.19,
+  "default_threshold": 0.5,
+  "test_roc_auc": 0.7332,
+  "test_precision_at_business_threshold": 0.3527,
+  "test_recall_at_business_threshold": 0.3126,
+  "test_f1_at_business_threshold": 0.3314
+}

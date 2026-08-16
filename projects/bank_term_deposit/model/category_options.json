@@ -1,0 +1,72 @@
+{
+  "job": [
+    "admin.",
+    "blue-collar",
+    "entrepreneur",
+    "housemaid",
+    "management",
+    "retired",
+    "self-employed",
+    "services",
+    "student",
+    "technician",
+    "unemployed",
+    "unknown"
+  ],
+  "marital": [
+    "divorced",
+    "married",
+    "single"
+  ],
+  "education": [
+    "primary",
+    "secondary",
+    "tertiary",
+    "unknown"
+  ],
+  "contact": [
+    "cellular",
+    "telephone",
+    "unknown"
+  ],
+  "month": [
+    "apr",
+    "aug",
+    "dec",
+    "feb",
+    "jan",
+    "jul",
+    "jun",
+    "mar",
+    "may",
+    "nov",
+    "oct",
+    "sep"
+  ],
+  "poutcome": [
+    "failure",
+    "other",
+    "success",
+    "unknown"
+  ],
+  "default": [
+    "no",
+    "yes"
+  ],
+  "housing": [
+    "no",
+    "yes"
+  ],
+  "loan": [
+    "no",
+    "yes"
+  ],
+  "age_group": [
+    "18-24",
+    "25-34",
+    "35-44",
+    "45-54",
+    "55-64",
+    "65+"
+  ]
+}
